@@ -1,2 +1,5 @@
-# CTI110
-CTI110 Repository
+# CTI110 Repository
+Created for P1LAB1
+Briquet
+06/13/2023
+
