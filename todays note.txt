@@ -1,0 +1,11 @@
+list=[1,2,3,4,5]
+	+index--.> starts with a zero
+average= sum(list / len(list)
+
+funtion append() 
+	>> add values to the list
+	>> could also hardcode value
+ my_list= []
+num=int(input("Enter a number:")
+my_list.append(num)
+print(my_list)
